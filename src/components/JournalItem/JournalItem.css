@@ -1,0 +1,29 @@
+.journal-item {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 20px;
+  border-radius: 3px;
+}
+
+.journal-item_header {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.journal-item_date {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.journal-item_text {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
